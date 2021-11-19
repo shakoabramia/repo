@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is A818-0AAE
-
- Directory of C:\Users\shalv\Desktop\GitProject
-
-11/18/2021  10:46 PM    <DIR>          .
-11/18/2021  10:46 PM    <DIR>          ..
-11/18/2021  10:46 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  163,880,210,432 bytes free
+Change 1
